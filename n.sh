@@ -16,4 +16,4 @@ fi
 
 d=$(date +"%Y%m%d")
 
-nvim ~/vimwiki/random/"$d$title".md
+lvim ~/vimwiki/random/"$d$title".md
